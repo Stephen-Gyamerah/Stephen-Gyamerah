@@ -1,4 +1,3 @@
-# SUPREME-X
 
 # 👋 Hi, I’m Stephen - Gyamerah
 
