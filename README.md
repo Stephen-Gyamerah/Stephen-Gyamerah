@@ -46,8 +46,8 @@
 
 ### 📫 Let’s Connect
 <!-- Add your socials as needed -->
-- [LinkedIn](#https://www.linkedin.com/in/stephen-gyamerah-9b231b36b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- [Twitter](#https://x.com/iam_stepheng?s=21&t=XM8KSsT1r1zn2rakPYmPJQ)
+- [LinkedIn](https://www.linkedin.com/in/stephen-gyamerah-9b231b36b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- [Twitter](https://x.com/iam_stepheng?s=21&t=XM8KSsT1r1zn2rakPYmPJQ)
 - [Portfolio](#COMING SOON)
 - [Papalm](#COMING SOON...)
 
