@@ -25,7 +25,6 @@
 ### 🌟 Flagship Projects
 - **Papalm:** Palm-payment hardware & identity platform powered by Oura
 - **AI + Automation:** Scheduling, meeting intelligence, and business ops workflows
-- **Futuristic Schools Project:** Designing a new merit-based, tech-driven education system.
 
 ---
 
